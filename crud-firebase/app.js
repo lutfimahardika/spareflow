@@ -1,11 +1,11 @@
 // Firebase Config - Ganti dengan punyamu
 const firebaseConfig = {
-  apiKey: "ISI_APIKEY_MU",
-  authDomain: "ISI_AUTH_DOMAIN",
-  projectId: "ISI_PROJECT_ID",
-  storageBucket: "ISI_STORAGE_BUCKET",
-  messagingSenderId: "ISI_MSG_SENDER_ID",
-  appId: "ISI_APP_ID"
+  apiKey: "AIzaSyDZtVFMa4YA3jOYX9i97Up5w3ei0JNVTEw",
+  authDomain: "spareflow-2980d.firebaseapp.com",
+  projectId: "spareflow-2980d",
+  storageBucket: "spareflow-2980d.firebasestorage.app",
+  messagingSenderId: "198624104820",
+  appId: "1:198624104820:web:19e8f9a47c838bddc79c21"
 };
 
 // Init Firebase
